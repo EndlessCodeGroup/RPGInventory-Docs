@@ -19,8 +19,9 @@ RPGInventory стал гибким инструментом, который по
 Где скачать RPGInventory?
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
-RPG Inventroy :doc:`является Open Source проектом </license>` и вы можете собрать его сами из `исходников 
-<https://github.com/EndlessCodeGroup/RPGInventory>`_. Но если вы хотите получить не только плагин, но и 
-поддержку от автора и своевременные обновления, а так же поддержать самого автора, то можете приобрести его 
-на `SpigotMC <https://www.spigotmc.org/resources/12498/>`_.
+RPG Inventroy :doc:`является Open Source проектом </license>` и вы можете собрать его сами из `исходников`_. 
+Но если вы хотите получить не только плагин, но и поддержку от автора и своевременные обновления, а так же 
+поддержать самого автора, то можете приобрести его на `SpigotMC`_.
 
+.. _`исходников`: https://github.com/EndlessCodeGroup/RPGInventory
+.. _`приобрести его на SpigotMC`: https://www.spigotmc.org/resources/12498/
