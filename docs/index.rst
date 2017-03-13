@@ -1,25 +1,42 @@
-.. Read the Docs Template documentation master file, created by
-   sphinx-quickstart on Tue Aug 26 14:19:49 2014.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+=========================
+Документация RPGInventory
+=========================
 
-Welcome to Read the Docs Template's documentation!
-==================================================
+Введение
+========
+Добро пожаловать! Это официальная документация к RPGInventory.
 
-Contents:
+RPGInventory - это плагин для `Minecraft`_ серверов на базе `Bukkit`_.
+
+Содержание
+==========
+
+Участие в разработке RPGInventory
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Если хотите помочь в разработке RPGInventory, просмотреть данный раздел. Сделаем RPGInventory лучше!
 
 .. toctree::
-   :maxdepth: 2
-   :glob:
+    :maxdepth: 2
+    :titlesonly:
 
-   *
+    contributing/index
 
+О плагине
+~~~~~~~~~
 
+Если хотите помочь в разработке RPGInventory, просмотреть данный раздел. Сделаем RPGInventory лучше!
 
-Indices and tables
-==================
+.. toctree::
+    :maxdepth: 2
+    :titlesonly:
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+    about/index
 
+Ссылки
+~~~~~~
+* `Minecraft`_
+* `Bukkit`_
+
+.. _`Minecraft`: https://minecraft.net/
+.. _`Bukkit`: https://bukkit.org/
