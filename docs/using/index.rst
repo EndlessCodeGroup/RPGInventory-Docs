@@ -12,5 +12,5 @@
 
     installation	resourcepack
     integrations
-	permissions
+	permissions	battlesystem
 	placeholders
