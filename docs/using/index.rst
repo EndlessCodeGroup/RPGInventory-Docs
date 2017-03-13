@@ -10,7 +10,7 @@
     :maxdepth: 2
     :titlesonly:
 
-    installation
+    installation	resourcepack
     integrations
 	permissions
 	placeholders
