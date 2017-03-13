@@ -12,4 +12,8 @@
     :maxdepth: 2
     :titlesonly:
 
-    *
+    introduction
+    howto
+    features
+    faq
+    license
