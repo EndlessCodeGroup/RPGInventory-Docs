@@ -1,4 +1,4 @@
-# RPGInventory Documentation [![Build Status](https://travis-ci.org/SpongePowered/SpongeDocs.svg?branch=master)](https://travis-ci.org/SpongePowered/SpongeDocs)
+# RPGInventory Documentation [![Documentation Status](https://readthedocs.org/projects/rpginventory-docs/badge/?version=latest)](http://rpginventory-docs.readthedocs.io/ru/latest/?badge=latest)
 
 This is the repository where the RPGInventory documentation is held.
 
