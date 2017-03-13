@@ -11,5 +11,4 @@
     :maxdepth: 2
     :titlesonly:
 
-	position
     backpack
