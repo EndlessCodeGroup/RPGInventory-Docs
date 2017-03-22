@@ -2,7 +2,8 @@
 Документация RPGInventory
 =========================
 
-<img src="https://cloud.githubusercontent.com/assets/19875118/24083156/161311b8-0cdb-11e7-8dfb-9548cc119d1f.png" alt="Logo" />
+.. image:: /images/logo.png
+    :alt: Logo
 
 Введение
 ========
